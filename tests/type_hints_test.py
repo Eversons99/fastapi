@@ -1,3 +1,5 @@
+
+# Testing Type Hints. Not valid nothing, just is used to help the IDE to suggest for you better tips and autocompletes
 def do_full_name(first_name: str, last_name: str) -> str:
     """
     Type hinting in arguments
